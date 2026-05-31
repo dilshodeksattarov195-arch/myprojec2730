@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggersalidate",
+        "uuid": 13437060,
+        "checksum": "ss07mh"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
